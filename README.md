@@ -11,7 +11,7 @@ A aplicação tem objetivo de exercitar os seguintes conteúdos:
 - Diagramas de classe UML, tanto de entidades quanto de serviços
 - Web services usando Spring Boot e boas práticas
 - Aplicar o conhecimento de orientação a objetos na construção de soluções para problemas reais
-- Acessar banco de dados relacionais com comandos SQL (JDBC) e também com ORM (JPA/Hibernate
+- Acessar banco de dados relacionais com comandos SQL (JDBC) e também com ORM (JPA/Hibernate)
 
 
 ## Modelo conceitual
