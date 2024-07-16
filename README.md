@@ -5,7 +5,7 @@
 
 Workshop Spring Boot 3 JPA é uma aplicação Back-End construída durante o curso [Java COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo). 
 
-A aplicação tem objetivo de exercitar todo o conteúdo do curso, tais como:
+A aplicação tem objetivo de exercitar os seguintes conteúdos:
 
 - Programação Orientada a Objetos e linguagem Java
 - Diagramas de classe UML, tanto de entidades quanto de serviços
