@@ -44,7 +44,7 @@ Pré-requisitos: Java 21
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/lucas-csoares/workshop-springboot3-jpa.git
 
 # executar o projeto
 ./mvnw spring-boot:run
