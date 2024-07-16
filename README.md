@@ -12,15 +12,15 @@ A aplicação tem objetivo de exercitar todo o conteúdo do curso, indo do parad
 
 ### Modelo de domínio
 
-![Modelo de domíniol](https://github.com/lucas-csoares/workshop-springboot3-jpa/assets/modelo-dominio.png)
+![Modelo de domíniol](https://github.com/lucas-csoares/workshop-springboot3-jpa/blob/main/assets/modelo-dominio.png)
 
 ### Instância de domínio
 
-![Instância de domínio](https://github.com/lucas-csoares/workshop-springboot3-jpa/assets/dominio-instancia.png)
+![Instância de domínio](https://github.com/lucas-csoares/workshop-springboot3-jpa/blob/main/assets/dominio-instancia.png)
 
 ### Camadas lógicas
 
-![Camadas lógicas](https://github.com/lucas-csoares/workshop-springboot3-jpa/assets/camadas-logicas.png)
+![Camadas lógicas](https://github.com/lucas-csoares/workshop-springboot3-jpa/blob/main/assets/camadas-logicas.png)
 
 
 # Tecnologias utilizadas
