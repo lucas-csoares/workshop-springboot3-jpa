@@ -13,6 +13,8 @@ import com.productorder.demo.repositories.UserRepository;
 import com.productorder.demo.services.exceptions.DataBaseException;
 import com.productorder.demo.services.exceptions.ResourceNotFoundException;
 
+import jakarta.persistence.EntityNotFoundException;
+
 @Service
 public class UserService {
 
@@ -50,8 +52,7 @@ public class UserService {
 			User entity = userRepository.getReferenceById(id);
 			updateDate(entity, obj);
 			return userRepository.save(entity);
-		} catch(RuntimeException e) {
-			e.printStackTrace();
+		} catch(EntityNotFoundException e) {
 			throw new ResourceNotFoundException(id);
 		}
 	}
